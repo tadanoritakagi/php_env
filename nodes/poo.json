@@ -1,0 +1,9 @@
+{
+  "run_list": [
+  "recipes[vim]"
+
+  ],
+  "automatic": {
+    "ipaddress": "poo"
+  }
+}
