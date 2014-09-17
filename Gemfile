@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "chef"
+gem "chef", "11.16.0"
 gem "knife-solo"
 gem "berkshelf"

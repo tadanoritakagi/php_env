@@ -157,5 +157,5 @@ PLATFORMS
 
 DEPENDENCIES
   berkshelf
-  chef
+  chef (= 11.16.0)
   knife-solo
